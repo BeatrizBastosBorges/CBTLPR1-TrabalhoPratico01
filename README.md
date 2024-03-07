@@ -26,7 +26,7 @@
 <img src="assets/img/TP01Ex09.gif">
 
 # Exercício 10:
-<img src="assets/img/TP01Ex10.gif">
+<img src="assets/img/TP01Ex010.gif">
 
 # Exercício 11:
 <img src="assets/img/TP01Ex11.gif">
