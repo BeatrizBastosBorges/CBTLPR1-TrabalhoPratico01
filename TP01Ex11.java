@@ -4,7 +4,9 @@ import java.lang.Math;
 
 public class TP01Ex11 {
 
-    /* 11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área. */
+    /* 11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área. 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
