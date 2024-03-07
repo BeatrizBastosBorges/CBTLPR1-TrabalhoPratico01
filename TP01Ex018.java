@@ -35,6 +35,6 @@ public class TP01Ex018 {
 
         troco = pagamento - somaProdutos;
 
-        System.out.println("Pagamento efetuado com sucesso. O troco e de: " + troco + " reais");
+        System.out.println("Pagamento efetuado com sucesso. O troco e de: " + df.format(troco) + " reais");
     }
 }
