@@ -3,7 +3,9 @@ import java.lang.Math;
 
 public class TP01Ex02 {
 
-    /* 2. Calcular e exibir a área de um quadrado, a partir do valor de sua aresta que será digitado. */
+    /* 2. Calcular e exibir a área de um quadrado, a partir do valor de sua aresta que será digitado. 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
