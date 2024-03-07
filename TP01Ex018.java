@@ -5,7 +5,9 @@ public class TP01Ex018 {
 
     /* 18. Entrar via teclado com o valor de cinco produtos. Após as entradas, digitar um
     valor referente ao pagamento da somatória destes valores. Calcular e exibir o troco
-    que deverá ser devolvido. */
+    que deverá ser devolvido. 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
     
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
