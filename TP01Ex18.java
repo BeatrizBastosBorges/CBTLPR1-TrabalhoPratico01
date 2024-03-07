@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class TP01Ex018 {
+public class TP01Ex18 {
 
     /* 18. Entrar via teclado com o valor de cinco produtos. Após as entradas, digitar um
     valor referente ao pagamento da somatória destes valores. Calcular e exibir o troco
