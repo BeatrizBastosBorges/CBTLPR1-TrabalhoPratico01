@@ -25,7 +25,7 @@ public class TP01Ex16 {
         secante = 1 / cosseno;
 
         System.out.println("\nSeno: " + df.format(seno));
-        System.out.println("\nCoseno: " + df.format(cosseno));
+        System.out.println("\nCosseno: " + df.format(cosseno));
         System.out.println("\nTangente: " + df.format(tangente));
         System.out.println("\nSecante: " + df.format(secante));
     }
