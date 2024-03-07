@@ -6,7 +6,9 @@ public class TP01Ex13 {
 
     /* 13. Calcular e exibir a velocidade final (em km/h) de um automóvel, a partir dos
     valores da velocidade inicial (em m/s), da aceleração (m/s2) e do tempo de percurso
-    (em s) que serão digitados. */
+    (em s) que serão digitados. 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
