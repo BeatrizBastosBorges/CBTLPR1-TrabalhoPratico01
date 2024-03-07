@@ -41,13 +41,13 @@
 <img src="assets/img/TP01Ex014.gif">
 
 # Exercício 15:
-<img src="assets/img/TP01Ex15.gif">
+<img src="assets/img/TP01Ex15 .gif">
 
 # Exercício 16:
 <img src="assets/img/TP01Ex16.gif">
 
 # Exercício 17:
-<img src="assets/img/TP01Ex017.gif">
+<img src="assets/img/TP01Ex017 .gif">
 
 # Exercício 18:
 <img src="assets/img/TP01Ex018.gif">
