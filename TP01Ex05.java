@@ -3,7 +3,9 @@ import java.text.DecimalFormat;
 
 public class TP01Ex05 {
 
-    /* 5. Calcular e exibir o volume de uma esfera a partir do valor de seu diâmetro que será digitado. */
+    /* 5. Calcular e exibir o volume de uma esfera a partir do valor de seu diâmetro que será digitado. 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
