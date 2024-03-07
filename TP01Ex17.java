@@ -3,8 +3,8 @@ import java.text.DecimalFormat;
 
 public class TP01Ex17 {
 
-    /* 17. Entrar via teclado com dois valores quaisquer “X” e “Y”. Calcular e exibir o
-    cálculo XY (“X” elevado a “Y”). Pesquisar as funções Exp e Ln.
+    /* 17. Entrar via teclado com dois valores quaisquer 'X' e 'Y'. Calcular e exibir o
+    calculo XY ('X' elevado a 'Y'). Pesquisar as funcoes Exp e Ln.
     Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
     */
 
