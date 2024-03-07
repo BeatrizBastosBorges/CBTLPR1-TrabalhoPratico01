@@ -4,7 +4,9 @@ import java.lang.Math;
 
 public class TP01Ex07 {
 
-    /* 7. Calcular e exibir a média geométrica de dois valores quaisquer que serão digitados. */
+    /* 7. Calcular e exibir a média geométrica de dois valores quaisquer que serão digitados. 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
