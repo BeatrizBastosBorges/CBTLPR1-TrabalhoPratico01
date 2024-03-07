@@ -4,7 +4,9 @@ import java.text.DecimalFormat;
 public class TP01Ex010 {
 
     /* 10. Entrar via teclado com o valor de uma temperatura em graus Celsius, calcular e
-    exibir sua temperatura equivalente em Fahrenheit. */
+    exibir sua temperatura equivalente em Fahrenheit. 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
     
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
