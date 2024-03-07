@@ -4,7 +4,9 @@ import java.text.DecimalFormat;
 public class TP01Ex012 {
 
     /* 12. Calcular e exibir o volume de um cone a partir dos valores da altura e do raio da
-    base que serão digitados. */
+    base que serão digitados. 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
