@@ -32,13 +32,13 @@
 <img src="assets/img/TP01Ex11.gif">
 
 # Exercício 12:
-<img src="assets/img/TP01Ex12.gif">
+<img src="assets/img/TP01Ex012.gif">
 
 # Exercício 13:
 <img src="assets/img/TP01Ex13.gif">
 
 # Exercício 14:
-<img src="assets/img/TP01Ex14.gif">
+<img src="assets/img/TP01Ex014.gif">
 
 # Exercício 15:
 <img src="assets/img/TP01Ex15.gif">
@@ -47,7 +47,7 @@
 <img src="assets/img/TP01Ex16.gif">
 
 # Exercício 17:
-<img src="assets/img/TP01Ex17.gif">
+<img src="assets/img/TP01Ex017.gif">
 
 # Exercício 18:
-<img src="assets/img/TP01Ex18.gif">
+<img src="assets/img/TP01Ex018.gif">
