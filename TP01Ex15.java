@@ -5,7 +5,9 @@ import java.lang.Math;
 public class TP01Ex15 {
 
     /* 15. Entrar via teclado com o valor da cotação do dólar e uma certa quantidade de
-    dólares. Calcular e exibir o valor correspondente em Reais (R$). */
+    dólares. Calcular e exibir o valor correspondente em Reais (R$). 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
