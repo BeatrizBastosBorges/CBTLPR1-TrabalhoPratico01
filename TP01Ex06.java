@@ -3,7 +3,9 @@ import java.text.DecimalFormat;
 
 public class TP01Ex06 {
 
-    /* 6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão digitados. */
+    /* 6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão digitados. 
+    Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+    */
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
