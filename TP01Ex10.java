@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class TP01Ex010 {
+public class TP01Ex10 {
 
     /* 10. Entrar via teclado com o valor de uma temperatura em graus Celsius, calcular e
     exibir sua temperatura equivalente em Fahrenheit. 
