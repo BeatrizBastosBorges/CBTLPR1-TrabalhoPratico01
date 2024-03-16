@@ -1,3 +1,5 @@
+Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
+
 # Exercício 1:
 <img src="assets/img/TP01Ex01.gif">
 
